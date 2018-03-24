@@ -66,7 +66,7 @@ public class PurchaseOrderBeanTest
       Assert.assertNotNull(purchaseorderbean);
    }
 
-   @Test @Ignore
+   @Test 
    public void should_crud()
    {
       // Creates an object
